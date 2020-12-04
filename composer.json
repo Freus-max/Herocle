@@ -1,0 +1,7 @@
+{
+    "name": "fredy/red1",
+    "description": "Aplicacion didactica red social para aprender php",
+    "type": "project",
+    "license": "Open Source",
+    "require": {}
+}
